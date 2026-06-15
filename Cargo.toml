@@ -1,6 +1,9 @@
 [package]
-name = "Ultima_Evaluación_ESD"
+name = "red_transporte"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+authors = ["Grupo 6"]
+description = "Red de Transporte Global — Proyecto Final: Grafos en Rust"
 
 [dependencies]
+petgraph = "0.6"
